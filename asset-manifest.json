@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Card/static/css/main.d8553e20.css",
+    "main.js": "/React-Card/static/js/main.44d60a91.js",
+    "static/media/watch.png": "/React-Card/static/media/watch.9ed42adf20edc6fbc3c1.png",
+    "static/media/shoes.png": "/React-Card/static/media/shoes.621a6164fd76cb7d2c0f.png",
+    "static/media/shirt.png": "/React-Card/static/media/shirt.526a29b2b45a6d80f98b.png",
+    "index.html": "/React-Card/index.html",
+    "main.d8553e20.css.map": "/React-Card/static/css/main.d8553e20.css.map",
+    "main.44d60a91.js.map": "/React-Card/static/js/main.44d60a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8553e20.css",
+    "static/js/main.44d60a91.js"
+  ]
+}
